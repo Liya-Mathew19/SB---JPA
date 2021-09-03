@@ -1,1 +1,1 @@
-# SB---JPA
+# SpringBoot---Java Persistance API
